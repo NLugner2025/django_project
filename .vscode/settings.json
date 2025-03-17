@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["gunicorn"]
+  "cSpell.words": ["gunicorn"],
+  "cSpell.ignoreWords": ["com", "herokuapp"]
 }
